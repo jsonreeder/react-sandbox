@@ -1,0 +1,9 @@
+#+TITLE: React Sandbox
+This repo sets up a blank react project.
+* Instructions
+1. Clone the repo
+2. In the repo directory, run ~npm install~
+3. Run ~webpack watch~
+4. Open ~index.html~ in your browser
+* Uses
+- A quick way to test out React code and ES6 (which does not work in Node)
