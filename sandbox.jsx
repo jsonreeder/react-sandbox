@@ -1,16 +1,17 @@
 import React from 'react';
 
-class Sandbox extends React.Component{
-  constructor(props){
+class Sandbox extends React.Component {
+  constructor(props) {
     super(props);
   }
 
-  render(){
+  render() {
     return (
       <div>
         <h1>React Sandbox</h1>
-        Scratch is scrutch. 
+        Scratch is scrutch.
       </div>
+
     );
   }
 }
